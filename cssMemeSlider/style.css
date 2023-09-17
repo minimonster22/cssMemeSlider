@@ -12,7 +12,10 @@ body {
     width: 80vw;
     height: 50vh;
     margin: 2% auto;
+}
 
+.control:hover {
+    cursor: pointer;
 }
 
 input[name='slider-dots'] {
