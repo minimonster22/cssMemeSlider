@@ -100,7 +100,6 @@ input[name='slider-dots'] {
 }
 
 .control:hover .dot {
-    transform: scale(1.5, 1.5);
     cursor: pointer;
     background-color: #BC96DD;
 }
